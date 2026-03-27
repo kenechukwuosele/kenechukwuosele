@@ -15,12 +15,12 @@
 
 ## About Me
 
-I'm a developer who sits at the intersection of **modern web engineering** and **applied AI** — comfortable shipping full-stack products end-to-end, and equally at home building ML pipelines, RAG systems, and AI-powered CLI tools.
+I'm a developer who sits at the intersection of **modern web engineering** and **applied AI** comfortable shipping full-stack products end-to-end, and equally at home building ML pipelines, RAG systems, and AI-powered tools.
 
-- 🔭 Currently building **[FinVocalist AI](https://github.com/kenechukwuosele/finvocalist-ai)** — a vertical AI tool that translates complex Nigerian financial data into plain-language insights for business owners.
-- 🛠️ Open-sourcing **[DbAdmin AI CLI](https://github.com/kenechukwuosele/dbadmin-ai-cli)** — talk to any SQL/NoSQL database in natural language from your terminal.
+- 🎤 Currently building **[FinVocalist AI](https://github.com/kenechukwuosele/finvocalist-ai)** — a vertical AI tool developed with the notion of bridging natural language with your personal finances
+- 🛠️ Open-sourcing **[DbAdmin AI CLI](https://github.com/kenechukwuosele/dbadmin-ai-cli)** — talk to any SQL/NoSQL database in natural language from your terminal and get AI assistance directly in your terminal.
 - 📊 Exploring end-to-end ML with **[Vehicle Price Prediction](https://github.com/kenechukwuosele/Vehicle-Price-Prediction)** — a full scikit-learn pipeline from raw data to production-ready predictions.
-- 🌱 Deepening expertise in **LangChain**, **RAG architectures**, and **agentic AI workflows**.
+- 🌱 Deepening expertise in **LangChain**, **RAG architectures**, **agentic AI workflows** and **Deep learning**.
 - 💬 Ask me about React, TypeScript, Python, MERN, or anything AI/ML.
 
 ---
