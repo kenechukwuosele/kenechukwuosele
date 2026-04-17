@@ -1,8 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kenechukwu%20Osele&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer&descAlignY=58&descSize=22)
+
 <div align="center">
 
-# Hi, I'm Kenechukwu Osele 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+Python;TensorFlow+%7C+PyTorch+%7C+Keras;MERN+Stack+%7C+LangChain+%7C+RAG;Building+products+that+think+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-**Full-Stack Developer & AI/ML Engineer** — I build products that work, and the intelligence that thinks.
+_Designing practical software and intelligent systems with measurable impact._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenechukwuosele)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://kenechukwuosele.github.io)
@@ -13,7 +15,7 @@
 
 ---
 
-## About Me
+## ✨ About Me
 
 I'm a developer who sits at the intersection of **modern web engineering** and **applied AI** comfortable shipping full-stack products end-to-end, and equally at home building ML pipelines, RAG systems, and AI-powered tools.
 
@@ -25,12 +27,14 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -44,6 +48,9 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -55,7 +62,7 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -68,7 +75,7 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -80,7 +87,7 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 
 ---
 
-## What I'm Currently Exploring
+## 🔎 What I'm Currently Exploring
 
 - 🤖 Agentic AI workflows with LangChain and tool-calling LLMs
 - 🏗️ Production-grade RAG pipelines (chunking strategies, re-ranking, eval)
@@ -96,3 +103,5 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 [kenechukwuosele@gmail.com](mailto:oseleken9e@gmail.com) · [LinkedIn](https://linkedin.com/in/kenechukwuosele) · [Portfolio](https://kenechukwuosele.github.io)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
