@@ -4,6 +4,8 @@
 
 **Full-Stack Developer & AI/ML Engineer** — I build products that work, and the intelligence that thinks.
 
+<sub>Designing practical software and intelligent systems with measurable impact.</sub>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenechukwuosele)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://kenechukwuosele.github.io)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oseleken9@gmail.com)
@@ -13,7 +15,7 @@
 
 ---
 
-## About Me
+## ✨ About Me
 
 I'm a developer who sits at the intersection of **modern web engineering** and **applied AI** comfortable shipping full-stack products end-to-end, and equally at home building ML pipelines, RAG systems, and AI-powered tools.
 
@@ -25,7 +27,7 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -44,6 +46,9 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -55,7 +60,7 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -68,7 +73,7 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -80,7 +85,7 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 
 ---
 
-## What I'm Currently Exploring
+## 🔎 What I'm Currently Exploring
 
 - 🤖 Agentic AI workflows with LangChain and tool-calling LLMs
 - 🏗️ Production-grade RAG pipelines (chunking strategies, re-ranking, eval)
