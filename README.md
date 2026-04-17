@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kenechukwu%20Osele&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%2FML%20Engineer&descAlignY=58&descSize=22)
+
 <div align="center">
 
-# Hi, I'm Kenechukwu Osele 
-
-**Full-Stack Developer & AI/ML Engineer** — I build products that work, and the intelligence that thinks.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A9FD8&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+Python;TensorFlow+%7C+PyTorch+%7C+Keras;MERN+Stack+%7C+LangChain+%7C+RAG;Building+products+that+think+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 _Designing practical software and intelligent systems with measurable impact._
 
@@ -103,3 +103,5 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 [kenechukwuosele@gmail.com](mailto:oseleken9e@gmail.com) · [LinkedIn](https://linkedin.com/in/kenechukwuosele) · [Portfolio](https://kenechukwuosele.github.io)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
