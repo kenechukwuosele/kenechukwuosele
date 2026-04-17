@@ -4,7 +4,7 @@
 
 **Full-Stack Developer & AI/ML Engineer** — I build products that work, and the intelligence that thinks.
 
-<sub>Designing practical software and intelligent systems with measurable impact.</sub>
+_Designing practical software and intelligent systems with measurable impact._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenechukwuosele)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://kenechukwuosele.github.io)
