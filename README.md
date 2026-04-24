@@ -94,6 +94,6 @@ I'm a developer who sits at the intersection of **modern web engineering** and *
 
 **Open to full-time roles, freelance projects, and open-source collaboration.**
 
-[kenechukwuosele@gmail.com](mailto:oseleken9e@gmail.com) · [LinkedIn](https://linkedin.com/in/kenechukwuosele) · [Portfolio](https://kenechukwuosele.github.io)
+[oseleken9@gmail.com](mailto:oseleken9@gmail.com) · [LinkedIn](https://linkedin.com/in/kenechukwuosele) · [Portfolio](https://kenechukwuosele.github.io)
 
 </div>
