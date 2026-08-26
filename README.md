@@ -6,7 +6,7 @@
 I build products that work, and the intelligence that thinks.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenechukwuosele)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://kenechukwuosele.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://kenechukwuosele.me)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oseleken9@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=kenechukwuosele&style=flat-square&color=0A66C2&label=Profile+Views)](https://github.com/kenechukwuosele)
 
